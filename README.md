@@ -13,7 +13,7 @@ A sophisticated **location-based task management system** built in Java. This pr
 
 ### 🛣️ [Hump_Detection_App_Showcase](https://github.com/csmdg7/Hump_Detection_App_Showcase) ⭐ Patent-Pending
 An **offline-first, edge-computing road safety application** designed for campus navigation. This innovative system uses continuous GPS telemetry to detect road hazards and features a crowd-sourced coordinate reporting system with administrative validation gateways.
-- **Highlights**: Real-time hazard detection, offline-first architecture, edge computing
+- **Highlights**: Real-time hazard detection, TTS, offline-first architecture, edge computing
 - **Impact**: Enhancing campus safety through intelligent navigation
 
 ### 🔐 [NetFenceAI](https://github.com/csmdg7/NetFenceAI)
