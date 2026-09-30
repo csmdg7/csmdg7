@@ -34,6 +34,6 @@ I build practical software across **secure AI workflows, mobile applications, cy
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/chetana-srinivasa-murthy) · [Email](mailto:chetanasm7@gmail.com) · [GitHub](https://github.com/csmdg7)
+[LinkedIn](https://www.linkedin.com/in/chetana-srinivasa-murthy-55b43a306/) · [Email](mailto:chetanasm7@gmail.com) · [GitHub](https://github.com/csmdg7)
 
 *Building thoughtful, secure, and practical technology.*
